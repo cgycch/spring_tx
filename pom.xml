@@ -193,6 +193,13 @@
             <artifactId>commons-io</artifactId>
             <version>1.4</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-csv -->
+		<dependency>
+		    <groupId>org.apache.commons</groupId>
+		    <artifactId>commons-csv</artifactId>
+		    <version>1.5</version>
+		</dependency>
+        
          <dependency>
             <groupId>com.fasterxml.jackson.jaxrs</groupId>
             <artifactId>jackson-jaxrs-xml-provider</artifactId>
